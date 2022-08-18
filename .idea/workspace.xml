@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a4cff4c-89be-46b1-86b5-67e3f9794cac" name="Changes" comment="" />
+    <list default="true" id="0a4cff4c-89be-46b1-86b5-67e3f9794cac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vatrascell/problems/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vatrascell/problems/IntegerToRomanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/vatrascell/problems/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/vatrascell/problems/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/vatrascell/problems/RomanToIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/vatrascell/problems/RomanToIntegerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="298dcbfb-3671-4bb8-835a-fcdb5e949262" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/vatrascell/application/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/vatrascell/problems/RomanToInteger.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/de/vatrascell/problems/RomanToIntegerTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DP7bn1qZIHEapxF33HifMbz8gR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +46,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vatra/Downloads/github-copilot-intellij-1.1.28.1744.zip&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.vatrascell.problems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IntegerToRomanTest">
+    <configuration name="IntegerToRomanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vatrascell.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vatrascell.problems" />
+      <option name="MAIN_CLASS_NAME" value="de.vatrascell.problems.IntegerToRomanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerToRomanTest.integerToRoman_III" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vatrascell.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vatrascell.problems" />
+      <option name="MAIN_CLASS_NAME" value="de.vatrascell.problems.IntegerToRomanTest" />
+      <option name="METHOD_NAME" value="integerToRoman_III" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vatrascell.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vatrascell.problems" />
+      <option name="MAIN_CLASS_NAME" value="de.vatrascell.problems.RomanToIntegerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToIntegerTest.romanToInt_1994" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vatrascell.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vatrascell.problems" />
+      <option name="MAIN_CLASS_NAME" value="de.vatrascell.problems.RomanToIntegerTest" />
+      <option name="METHOD_NAME" value="romanToInt_1994" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToIntegerTest.romanToInt_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vatrascell.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vatrascell.problems" />
+      <option name="MAIN_CLASS_NAME" value="de.vatrascell.problems.RomanToIntegerTest" />
+      <option name="METHOD_NAME" value="romanToInt_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntegerToRomanTest" />
+        <item itemvalue="JUnit.IntegerToRomanTest.integerToRoman_III" />
+        <item itemvalue="JUnit.RomanToIntegerTest" />
+        <item itemvalue="JUnit.RomanToIntegerTest.romanToInt_3" />
+        <item itemvalue="JUnit.RomanToIntegerTest.romanToInt_1994" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +163,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660588942467</updated>
+      <workItem from="1660588944492" duration="4105000" />
+      <workItem from="1660758120013" duration="715000" />
+      <workItem from="1660833250054" duration="751000" />
+      <workItem from="1660834023336" duration="954000" />
+      <workItem from="1660835191367" duration="143000" />
+      <workItem from="1660835359883" duration="990000" />
+      <workItem from="1660836401986" duration="358000" />
+      <workItem from="1660836779958" duration="570000" />
+      <workItem from="1660837372670" duration="569000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
